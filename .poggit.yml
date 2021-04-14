@@ -5,6 +5,6 @@ projects:
   EC-TableUI:
     path: ""
     libs:
-    - src: jojoe77777/FormAPI/libFormAPI
+    - src: PoggitTestPlugins/FormAPI/libFormAPI
       version: ^1.3
 ...
